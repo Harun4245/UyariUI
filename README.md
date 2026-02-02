@@ -1,4 +1,10 @@
-# 🔔 UyariUI
+> ⚠️ **UYARI**
+>  
+> Bu plugin şu anda **aktif geliştirme aşamasındadır (WIP)**.  
+> Özellikler değişebilir, hatalar olabilir.  
+> Canlı sunucularda kullanmadan önce test edilmesi önerilir.
+>
+> # 🔔 UyariUI
 
 PocketMine-MP **PM5** için geliştirilmiş,  
 **UI tabanlı oyuncu uyarı ve ceza sistemi**.
